@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography Website</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Lobster&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: black;
+        }
+
+        .header {
+            height: 90px;
+            /* border: 2px solid white; */
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+
+        .logo {
+            color: white;
+            font-size: 28px;
+            margin-left: 10px;
+            margin-top: 25px;
+            font-family: 'Lobster', cursive;
+        }
+
+        .mid {
+            /* border: 2px solid white; */
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            width: 550px;
+            margin: auto;
+            color: white;
+
+        }
+
+        .item {
+            padding-left: 40px;
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 18px;
+        }
+
+        .right {
+            padding-top: 12px;
+            display: block;
+            
+        }
+
+        .right li {
+            display: inline;
+            padding-left: 5px;
+        }
+
+        li img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .container {
+            /* border: 2px solid white; */
+            color: white;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .box{
+            box-sizing: border-box;
+            /* border: 2px solid white; */
+            width: 32%;
+            margin: 7px;
+            height: 450px;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="logo">CLIQUE</div>
+
+        <div class="mid">
+            <div class="item" id="item-1">Home</div>
+            <div class="item" id="item-2">Gallery</div>
+            <div class="item" id="item-3">Services</div>
+            <div class="item" id="item-4">About</div>
+            <div class="item" id="item-5">Contact</div>
+        </div>
+        <div class="right">
+            <ul>
+                <li><img src="youtube.jpg"></li>
+                <li><img src="facebook.jpg"></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+
+        <div class="box" id="box-1"><div class="text-1">Nature</div></div>
+        <div class="box" id="box-2"><div class="text-2">Portrait</div></div>
+        <div class="box" id="box-3"><div class="text-3">People</div></div>
+        <div class="box" id="box-4"><div class="text-4">Architecture</div></div>
+        <div class="box" id="box-5"><div class="text-3">Animals</div></div>
+        <div class="box" id="box-6"><div class="text-3">Sports</div></div>
+        <div class="box" id="box-7"><div class="text-3">Travel</div></div>
+        <div class="box" id="box-8"><div class="text-3">Anime</div></div>
+        <div class="box" id="box-9"><div class="text-3">Modern Art</div></div>  
+
+    </div>
+</body>
+
+</html>

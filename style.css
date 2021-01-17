@@ -1,0 +1,108 @@
+#box-1{
+    background-image: url(nature.jpg);
+    background-size: cover;
+}
+#box-2{
+    background-image: url(portrait.jpg);
+    background-size: cover;
+}
+#box-3{
+    background-image: url(people.jpg);
+    background-size: cover;
+}
+#box-4{
+    background-image: url(arch.jpg);
+    background-size: cover;
+}
+#box-5{
+    background-image: url(animals.jpg);
+    background-size: cover;
+}
+#box-6{
+    background-image: url(sports.jpg);
+    background-size: cover;
+}
+#box-7{
+    background-image: url(travel.jpg);
+    background-size: cover;
+}
+#box-8{
+    background-image: url(anime.jpg);
+    background-size: cover;
+}
+#box-9{
+    background-image: url(urban.jpg);
+    background-size: cover;
+}
+.text-1{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-2{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-3{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-4{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-5{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-6{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-7{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-8{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
+.text-9{
+    display: block;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 194px;
+    margin-bottom: 220px;
+    margin-left: 177px;
+}
